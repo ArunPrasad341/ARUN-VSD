@@ -1,6 +1,8 @@
 # ARUN-VSD
 This is to showcase my progress in RISC-V Reference SOC Tapeout Program.
 
+# WEEK 0 - TASK 0
+
 # System Check
 6GB RAM, 50 GB HDD
 Ubuntu 20.04+
